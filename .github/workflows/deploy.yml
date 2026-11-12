@@ -1,4 +1,4 @@
-name: Deploy ListLync to GitHub Pages
+name: Deploy LynkList to GitHub Pages
 
 on:
   repository_dispatch:
@@ -40,7 +40,7 @@ jobs:
           cp dist/index.html dist/404.html
           touch dist/.nojekyll
         env:
-          VITE_BASE_PATH: /listlync/
+          VITE_BASE_PATH: /lynklist/
           VITE_SUPABASE_URL: ${{ secrets.VITE_SUPABASE_URL }}
           VITE_SUPABASE_PROJECT_ID: ${{ secrets.VITE_SUPABASE_PROJECT_ID }}
           VITE_SUPABASE_PUBLISHABLE_KEY: ${{ secrets.VITE_SUPABASE_PUBLISHABLE_KEY }}
