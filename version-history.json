@@ -1,0 +1,386 @@
+[
+  {
+    "version": "1.4.3",
+    "date": "2026-11-16",
+    "timestamp": "2026-11-16T00:18:18.307Z",
+    "title": "Hydrate user from persisted LynkList session",
+    "changes": [
+      "Hydrate user from persisted LynkList session",
+      "Resync session after PWA pageshow"
+    ]
+  },
+  {
+    "version": "1.4.2",
+    "date": "2026-11-15",
+    "timestamp": "2026-11-15T14:46:45.489Z",
+    "title": "Rotate LynkList refresh tokens with 30-day sliding expiry",
+    "changes": [
+      "Rotate LynkList refresh tokens with 30-day sliding expiry"
+    ]
+  },
+  {
+    "version": "1.4.1",
+    "date": "2026-11-15",
+    "timestamp": "2026-11-15T14:15:38.240Z",
+    "title": "Avoid aborting slow app navigations",
+    "changes": [
+      "Avoid aborting slow app navigations"
+    ]
+  },
+  {
+    "version": "1.4.0",
+    "date": "2026-11-15",
+    "timestamp": "2026-11-15T14:00:20.582Z",
+    "title": "Improve offline resilience and session management",
+    "changes": [
+      "Improve offline resilience and session management"
+    ]
+  },
+  {
+    "version": "1.3.14",
+    "date": "2026-11-15",
+    "timestamp": "2026-11-15T12:55:01.300Z",
+    "title": "Improve polling efficiency and auth resilience",
+    "changes": [
+      "Improve polling efficiency and auth resilience"
+    ]
+  },
+  {
+    "version": "1.3.13",
+    "date": "2026-11-14",
+    "timestamp": "2026-11-14T16:54:03.516Z",
+    "title": "Improve auth stability and error handling",
+    "changes": [
+      "Improve auth stability and error handling"
+    ]
+  },
+  {
+    "version": "1.3.12",
+    "date": "2026-11-14",
+    "timestamp": "2026-11-14T13:11:16.200Z",
+    "title": "Fix LynkList session recovery after PWA resume",
+    "changes": [
+      "Fix LynkList session recovery after PWA resume",
+      "Avoid revoking LynkList session on transient load errors"
+    ]
+  },
+  {
+    "version": "1.3.11",
+    "date": "2026-11-13",
+    "timestamp": "2026-11-13T20:04:17.892Z",
+    "title": "Avoid retrying failed refresh under fallback lock",
+    "changes": [
+      "Avoid retrying failed refresh under fallback lock"
+    ]
+  },
+  {
+    "version": "1.3.10",
+    "date": "2026-11-13",
+    "timestamp": "2026-11-13T20:03:58.895Z",
+    "title": "Coordinate session refresh across app contexts",
+    "changes": [
+      "Coordinate session refresh across app contexts"
+    ]
+  },
+  {
+    "version": "1.3.9",
+    "date": "2026-11-13",
+    "timestamp": "2026-11-13T20:00:22.503Z",
+    "title": "Improve reliability and offline state handling",
+    "changes": [
+      "Improve reliability and offline state handling"
+    ]
+  },
+  {
+    "version": "1.3.8",
+    "date": "2026-11-13",
+    "timestamp": "2026-11-13T19:53:24.279Z",
+    "title": "Refactor and improve codebase quality",
+    "changes": [
+      "Refactor and improve codebase quality"
+    ]
+  },
+  {
+    "version": "1.3.7",
+    "date": "2026-11-13",
+    "timestamp": "2026-11-13T12:23:09.544Z",
+    "title": "Remove obsolete OAuth client build variable",
+    "changes": [
+      "Remove obsolete OAuth client build variable",
+      "Remove obsolete OAuth env example"
+    ]
+  },
+  {
+    "version": "1.3.6",
+    "date": "2026-11-12",
+    "timestamp": "2026-11-12T21:07:46.936Z",
+    "title": "Publish LynkList to renamed GitHub Pages repository",
+    "changes": [
+      "Publish LynkList to renamed GitHub Pages repository",
+      "Remove invalid private-repository Pages deployment"
+    ]
+  },
+  {
+    "version": "1.3.5",
+    "date": "2026-11-01",
+    "timestamp": "2026-11-01T16:18:24.456Z",
+    "title": "Set email change confirmation redirect",
+    "changes": [
+      "Set email change confirmation redirect"
+    ]
+  },
+  {
+    "version": "1.3.4",
+    "date": "2026-10-31",
+    "timestamp": "2026-10-31T20:48:00.290Z",
+    "title": "Adicionando botão de retornar a demonstração",
+    "changes": [
+      "Adicionando botão de retornar a demonstração"
+    ]
+  },
+  {
+    "version": "1.3.3",
+    "date": "2026-10-31",
+    "timestamp": "2026-10-31T18:12:31.220Z",
+    "title": "Mudança do nome da empresa.",
+    "changes": [
+      "Mudança do nome da empresa."
+    ]
+  },
+  {
+    "version": "1.3.2",
+    "date": "2026-10-23",
+    "timestamp": "2026-10-23T19:43:19.028Z",
+    "title": "Alterações no commit e9cdd010fc7c1fcbc9eb76c2ca7175ed6a789455: Ajuste",
+    "changes": [
+      "Alterações no commit e9cdd010fc7c1fcbc9eb76c2ca7175ed6a789455: Ajuste"
+    ]
+  },
+  {
+    "version": "1.3.1",
+    "date": "2026-10-22",
+    "timestamp": "2026-10-22T20:30:21.422Z",
+    "title": "Alterações no commit 6e23d29e556f3d6a0e885ac0c92545cce3ae11bc: Ajustes",
+    "changes": [
+      "Alterações no commit 6e23d29e556f3d6a0e885ac0c92545cce3ae11bc: Ajustes"
+    ]
+  },
+  {
+    "version": "1.3.0",
+    "date": "2026-10-18",
+    "timestamp": "2026-10-18T22:21:00.000Z",
+    "title": "Adicionar modo demonstração sem persistência",
+    "changes": [
+      "Exibir uma demonstração fictícia antes do login, com lista e histórico de compras",
+      "Manter as alterações da demonstração apenas em memória, sem gravar dados",
+      "Abrir login e cadastro pelo botão de usuário da demonstração"
+    ]
+  },
+  {
+    "version": "1.2.6",
+    "date": "2026-10-18",
+    "timestamp": "2026-10-18T22:13:46.606Z",
+    "title": "Fix missing NotificationsProvider export",
+    "changes": [
+      "Fix missing NotificationsProvider export"
+    ]
+  },
+  {
+    "version": "1.2.5",
+    "date": "2026-10-18",
+    "timestamp": "2026-10-18T21:23:20.958Z",
+    "title": "Simplify item realtime subscriptions",
+    "changes": [
+      "Simplify item realtime subscriptions",
+      "Update item realtime hook usage",
+      "Clean realtime callback parameters"
+    ]
+  },
+  {
+    "version": "1.2.4",
+    "date": "2026-10-18",
+    "timestamp": "2026-10-18T21:22:47.574Z",
+    "title": "Remove item activity from notifications",
+    "changes": [
+      "Remove item activity from notifications",
+      "Persist household purchase notifications for 30 days",
+      "Show shared purchase finalization notifications"
+    ]
+  },
+  {
+    "version": "1.2.3",
+    "date": "2026-10-18",
+    "timestamp": "2026-10-18T20:56:18.028Z",
+    "title": "Hide vertical page scrollbar",
+    "changes": [
+      "Hide vertical page scrollbar"
+    ]
+  },
+  {
+    "version": "1.2.2",
+    "date": "2026-10-18",
+    "timestamp": "2026-10-18T20:53:27.081Z",
+    "title": "Hide suggestion scrollbar and reduce bottom spacing",
+    "changes": [
+      "Hide suggestion scrollbar and reduce bottom spacing"
+    ]
+  },
+  {
+    "version": "1.2.1",
+    "date": "2026-10-18",
+    "timestamp": "2026-10-18T20:38:36.539Z",
+    "title": "Correções na lista e nas sugestões rápidas",
+    "changes": [
+      "Manter o botão Finalizar compra visível acima da barra de adição fixa",
+      "Preservar sugestões rápidas a partir dos itens do histórico de compras"
+    ]
+  },
+  {
+    "version": "1.2.0",
+    "date": "2026-10-18",
+    "timestamp": "2026-10-18T20:30:22.954Z",
+    "title": "Melhorias no histórico de compras",
+    "changes": [
+      "Ajustes visuais no resumo mensal e na apresentação dos totais do histórico de compras"
+    ]
+  },
+  {
+    "version": "1.0.17",
+    "date": "2026-10-18",
+    "timestamp": "2026-10-18T19:51:37.758Z",
+    "title": "Inclusão de histórico e fechamento de compra",
+    "changes": [
+      "Inclusão de histórico e fechamento de compra"
+    ]
+  },
+  {
+    "version": "1.0.16",
+    "date": "2026-10-17",
+    "timestamp": "2026-10-17T22:34:27.306Z",
+    "title": "Add in-app account signup requests",
+    "changes": [
+      "Add in-app account signup requests"
+    ]
+  },
+  {
+    "version": "1.0.15",
+    "date": "2026-10-17",
+    "timestamp": "2026-10-17T21:51:30.800Z",
+    "title": "Add in-app account profile editor",
+    "changes": [
+      "Add in-app account profile editor"
+    ]
+  },
+  {
+    "version": "1.0.14",
+    "date": "2026-10-17",
+    "timestamp": "2026-10-17T13:06:06.441Z",
+    "title": "Fix account settings link to the RangelLab portal",
+    "changes": [
+      "Fix account settings link to the RangelLab portal",
+      "Update generated List history attribution to RangelLab"
+    ]
+  },
+  {
+    "version": "1.0.13",
+    "date": "2026-10-17",
+    "timestamp": "2026-10-17T13:05:33.726Z",
+    "title": "Update List attribution to RangelLab brand",
+    "changes": [
+      "Update List attribution to RangelLab brand",
+      "Replace legacy RS badge with RL",
+      "Point List account links to RangelLab portal"
+    ]
+  },
+  {
+    "version": "1.0.12",
+    "date": "2026-10-17",
+    "timestamp": "2026-10-17T12:17:11.289Z",
+    "title": "Update List deployment target to RangelLab",
+    "changes": [
+      "Update List deployment target to RangelLab"
+    ]
+  },
+  {
+    "version": "1.0.11",
+    "date": "2026-10-17",
+    "timestamp": "2026-10-17T12:06:45.170Z",
+    "title": "Point List account links to RangelLab portal",
+    "changes": [
+      "Point List account links to RangelLab portal"
+    ]
+  },
+  {
+    "version": "1.0.10",
+    "date": "2026-10-17",
+    "timestamp": "2026-10-17T11:55:50.331Z",
+    "title": "Update RangelLab references",
+    "changes": [
+      "Update RangelLab references"
+    ]
+  },
+  {
+    "version": "1.0.9",
+    "date": "2026-10-17",
+    "timestamp": "2026-10-17T11:55:33.925Z",
+    "title": "Update brand references to RangelLab",
+    "changes": [
+      "Update brand references to RangelLab",
+      "Update portal brand references to RangelLab"
+    ]
+  },
+  {
+    "version": "1.0.8",
+    "date": "2026-10-16",
+    "timestamp": "2026-10-16T23:10:25.767Z",
+    "title": "Simplifica monograma para RS (list-icon)",
+    "changes": [
+      "Simplifica monograma para RS (list-icon)"
+    ]
+  },
+  {
+    "version": "1.0.7",
+    "date": "2026-10-16",
+    "timestamp": "2026-10-16T22:47:12.870Z",
+    "title": "Atualiza monograma do ícone do List para RSH",
+    "changes": [
+      "Atualiza monograma do ícone do List para RSH"
+    ]
+  },
+  {
+    "version": "1.0.6",
+    "date": "2026-10-16",
+    "timestamp": "2026-10-16T14:07:16.656Z",
+    "title": "Alinhar o histórico automático de alterações",
+    "changes": [
+      "Alinhar o histórico automático de alterações"
+    ]
+  },
+  {
+    "version": "1.0.5",
+    "date": "2026-10-16",
+    "timestamp": "2026-10-16T13:19:01.364Z",
+    "title": "Correct version history generator syntax",
+    "changes": [
+      "Correct version history generator syntax"
+    ]
+  },
+  {
+    "version": "1.0.4",
+    "date": "2026-10-16",
+    "timestamp": "2026-10-16T13:17:55.267Z",
+    "title": "Correct semantic version script and tests",
+    "changes": [
+      "Correct semantic version script and tests"
+    ]
+  },
+  {
+    "version": "1.0.3",
+    "date": "2026-10-16",
+    "timestamp": "2026-10-16T00:00:00.000Z",
+    "title": "Versão de referência para o padrão semântico",
+    "changes": [
+      "Registro inicial do histórico no padrão MAJOR.MINOR.PATCH."
+    ]
+  }
+]
